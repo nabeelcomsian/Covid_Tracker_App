@@ -1,20 +1,5 @@
-<<<<<<< HEAD
-# covid_app
 
-A new Flutter project.
+COVID Tracker App
 
-## Getting Started
+A mobile application that provides real-time worldwide COVID-19 case statistics. Users can view detailed data through interactive graphs, including confirmed cases, recoveries, and deaths. The app also allows users to search for COVID-19 statistics by specific countries, making it an easy-to-use and informative tool for tracking the pandemic.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Covid_Tracker_App
->>>>>>> 91ba053e7709b63b75d2040f2e1cdb023e605436
